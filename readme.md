@@ -1,1 +1,1 @@
-modified readme file
+stable version of elastic buffer
